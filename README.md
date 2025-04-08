@@ -1,10 +1,10 @@
 # Student-Management-System-using-Spring-Boot
 Student Management System using Spring Boot, aims to provide a  comprehensive solution for managing student data, academic records, and user interactions in a  seamless and efficient manner.
 
-#1. INTRODUCTION
+# 1. INTRODUCTION
 This Student Management System is a web-based application developed using Spring Boot for the backend and Thymeleaf with Bootstrap for the frontend. It enables efficient management of student data, course enrollments, academic performance, and communication.
 
-#Key Features:
+Key Features:
 Student Information Management: Manage personal details, records, and attendance.
 
 Course & Enrollment Management: Create/manage courses and class schedules.
@@ -15,10 +15,10 @@ Notification Services: Email/SMS alerts for updates and deadlines.
 
 Performance Tracking: Grade monitoring and progress reports.
 
-#Technologies Used:
+Technologies Used:
 Spring Boot, Thymeleaf, Spring Data JPA, Bootstrap, MySQL.
 
-#1.2 MOTIVATIONS
+1.2 MOTIVATIONS
 User Convenience: Centralized access to academic records.
 
 Admin Efficiency: Automation of repetitive tasks.
@@ -29,7 +29,7 @@ Digital Transformation: Modern APIs and analytics.
 
 Security: Data encryption and access control.
 
-#1.3 UNIQUENESS OF WORK
+1.3 UNIQUENESS OF WORK
 AI-Driven Insights: Academic suggestions and performance predictions.
 
 Personalized Dashboards & Alerts: Custom UI and real-time updates.
@@ -40,7 +40,10 @@ Interactive Course Planning: Adaptive learning paths.
 
 Enhanced Communication: Parent portal, messaging, event tracking.
 
-#2. LITERATURE SURVEY
+1.4 REPORT STRUCTURE
+Includes: Title Page, Abstract, TOC, Introduction, Literature Survey, Methods, Results, Conclusion, References, Appendices, Team Reflections.
+
+2. LITERATURE SURVEY
 2.1 Existing System Limitations:
 Basic info storage, limited personalization.
 
@@ -48,14 +51,14 @@ Static notifications, weak communication tools.
 
 Poor digital payment integration.
 
-#2.2 Problem Identification:
+2.2 Problem Identification:
 Data complexity, lack of scalability.
 
 Poor user experience, integration issues.
 
 Security and privacy concerns.
 
-#3. MATERIALS & METHODS
+3. MATERIALS & METHODS
 System Overview:
 Built using Spring Boot (Java 17), follows modular architecture. Supports student registration, attendance, grading, and notifications with responsive design.
 
