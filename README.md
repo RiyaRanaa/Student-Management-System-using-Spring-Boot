@@ -90,3 +90,19 @@ Clean separation via service layer
 
 Tools Used:
 Spring Boot, Thymeleaf, Spring Data JPA, Bootstrap, MySQL
+
+# 3.3 Working Process Description and ER Diagram
+![image](https://github.com/user-attachments/assets/d0dc61b8-c4a9-4033-be66-f50f8c0c43dd)
+
+
+
+
+# SOURCE CODE (application.properties) 
+spring.datasource.url=jdbc:mysql://localhost:3306/sms 
+spring.datasource.username=root 
+spring.datasource.password=8047riyarana@RR 
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect 
+#Hibernate auto ddl 
+spring.jpa.hibernate.ddl-auto=update 
+logging.level.org.hibernate.SQL=DEBUG 
+server.port=8083
